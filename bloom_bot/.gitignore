@@ -1,0 +1,14 @@
+# Конфиденциальные данные
+config.py
+
+# Сообщения и ответы
+messages.json
+responses.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
